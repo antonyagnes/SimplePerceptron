@@ -1,0 +1,10 @@
+Package: Perceptron
+Type: Package
+Title: Implementation of Simple Perceptron
+Version: 0.1.0
+Author: Agnes
+Maintainer: Agnes <antonyagnes28@gmail.com>
+Description: Implements a simple perceptron using different activation functions
+License: -
+Encoding: UTF-8
+LazyData: true
