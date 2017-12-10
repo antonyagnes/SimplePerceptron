@@ -7,7 +7,7 @@ iris_subset[iris_subset[,3] == "setosa",4] = -1
 #loads x and y values
 x = iris_subset[,c(1,2)]
 y = iris_subset[,4]
-
+#loading functions
 weight_vector = function(x){
   return (rep(0,x+1))
 }
