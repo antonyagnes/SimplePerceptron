@@ -1,0 +1,4 @@
+This package by deafault loads the iris dataset.
+It uses the sepal length and petal length. Also, Its assumes the flower belonging to species setaosa as -1 and flowers 
+belonging to virginica and versicolor as 1
+The default learning rate is 1 and the default number of iterations is 10.
